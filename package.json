@@ -1,0 +1,24 @@
+{
+  "name": "bookmanageradmin",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "vue": "^3.4.29",
+    "@ant-design/icons-vue": "^7.0.1",
+    "ant-design-vue": "^4.2.3",
+    "axios": "^1.7.2",
+    "tdesign-icons-vue-next": "^0.2.2",
+    "tdesign-vue-next": "^1.9.6",
+    "vue-router": "^4.4.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^5.0.5",
+    "vite": "^5.3.1"
+  }
+}
